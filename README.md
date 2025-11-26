@@ -1,2 +1,3 @@
-# RenPy-gitignore
-A simple Ren'Py .gitignore template file.
+# RenPy Gitignore Template
+
+Bruh look at the title. This repo needs no further explanation.
